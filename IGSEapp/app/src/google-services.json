@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "624529056903",
+    "firebase_url": "https://igseapp-default-rtdb.firebaseio.com",
+    "project_id": "igseapp",
+    "storage_bucket": "igseapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624529056903:android:7f509862cb3bd33cf64422",
+        "android_client_info": {
+          "package_name": "com.energytool.igseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624529056903-g2ja21n46slqlukehij96pufkp4rtse2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.energytool.igseapp",
+            "certificate_hash": "fa8e848408c7ab60049dd5d712d34784301abe21"
+          }
+        },
+        {
+          "client_id": "624529056903-6trb7sja2qfh3bfra3ecclcc10g9ulqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDazWI4zewB8byZHli1OPCNZaTc6VeHBXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624529056903-6trb7sja2qfh3bfra3ecclcc10g9ulqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
